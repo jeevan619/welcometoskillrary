@@ -1,9 +1,9 @@
-pack com.example;
+package com.example;
 
 /**
  * This is a class.
  */
-publi class Greeter {
+public class Greeter {
 
   /**
    * This is a constructor its true.
